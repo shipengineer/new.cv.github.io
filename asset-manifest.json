@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/new.cv.github.io/static/css/main.6542deac.css",
+    "main.css": "/new.cv.github.io/static/css/main.0e16d8cb.css",
     "main.js": "/new.cv.github.io/static/js/main.1dce12cf.js",
     "static/js/787.28cb0dcd.chunk.js": "/new.cv.github.io/static/js/787.28cb0dcd.chunk.js",
     "static/media/warp.gif": "/new.cv.github.io/static/media/warp.dfe7daff36915c013be5.gif",
@@ -14,12 +14,12 @@
     "static/media/bio-photo.jpg": "/new.cv.github.io/static/media/bio-photo.47522a3a88a5a56185a3.jpg",
     "index.html": "/new.cv.github.io/index.html",
     "static/media/green-back.svg": "/new.cv.github.io/static/media/green-back.0df69ed69826953af0e8667b432525ac.svg",
-    "main.6542deac.css.map": "/new.cv.github.io/static/css/main.6542deac.css.map",
+    "main.0e16d8cb.css.map": "/new.cv.github.io/static/css/main.0e16d8cb.css.map",
     "main.1dce12cf.js.map": "/new.cv.github.io/static/js/main.1dce12cf.js.map",
     "787.28cb0dcd.chunk.js.map": "/new.cv.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6542deac.css",
+    "static/css/main.0e16d8cb.css",
     "static/js/main.1dce12cf.js"
   ]
 }
