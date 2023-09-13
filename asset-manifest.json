@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/new.cv.github.io/static/css/main.6542deac.css",
-    "main.js": "/new.cv.github.io/static/js/main.c21dda21.js",
+    "main.js": "/new.cv.github.io/static/js/main.1dce12cf.js",
     "static/js/787.28cb0dcd.chunk.js": "/new.cv.github.io/static/js/787.28cb0dcd.chunk.js",
     "static/media/warp.gif": "/new.cv.github.io/static/media/warp.dfe7daff36915c013be5.gif",
     "static/media/sky-new.png": "/new.cv.github.io/static/media/sky-new.db07014b4855adb8f1cd.png",
@@ -15,11 +15,11 @@
     "index.html": "/new.cv.github.io/index.html",
     "static/media/green-back.svg": "/new.cv.github.io/static/media/green-back.0df69ed69826953af0e8667b432525ac.svg",
     "main.6542deac.css.map": "/new.cv.github.io/static/css/main.6542deac.css.map",
-    "main.c21dda21.js.map": "/new.cv.github.io/static/js/main.c21dda21.js.map",
+    "main.1dce12cf.js.map": "/new.cv.github.io/static/js/main.1dce12cf.js.map",
     "787.28cb0dcd.chunk.js.map": "/new.cv.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6542deac.css",
-    "static/js/main.c21dda21.js"
+    "static/js/main.1dce12cf.js"
   ]
 }
